@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "rp9G/z+mMv9CULL/0iZ2mab2EmBewgu4P0lnjv9pHCh1ndlvqxQITDC+EUXeS3n9vfI3F/gt6H2lUnaKLAY0ZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yomatsum\\source\\repos\\OpenHack\\Knowledge-Mining\\qa-test\\qa-test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yomatsum\\.nuget\\packages\\azure.ai.language.questionanswering\\1.0.0\\azure.ai.language.questionanswering.1.0.0.nupkg.sha512",
+    "C:\\Users\\yomatsum\\.nuget\\packages\\azure.core\\1.20.0\\azure.core.1.20.0.nupkg.sha512",
+    "C:\\Users\\yomatsum\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\yomatsum\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\yomatsum\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\yomatsum\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\yomatsum\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\yomatsum\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\yomatsum\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
